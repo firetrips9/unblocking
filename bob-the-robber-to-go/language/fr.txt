@@ -1,0 +1,135 @@
+SKIP;Passer
+CREDITS;Auteurs
+PRODUCTION;Production
+GAME_DESIGN;Design du jeu
+ART;Art
+SOUND_MUSIC;Les sons et la musique
+BUSTED;Pris!
+WELL_DONE;Super!
+
+KEY_TODAY;-----------/nDoor key/ntoday:/n%s/n-----------
+README;use arrows/nto select/ndifferent/nfiles
+
+HELP_CAMERA;Si tu te mets à l'ombre/nsans bouger,/ntu seras invisibles/npour les caméras et les/nguardiens. Essaie/nde passer devant cette/ncaméra de test.
+HELP_CAMERA2;Appuie
+HELP_CAMERA3;ou
+HELP_CAMERA4;pour
+HELP_CAMERA5;fermer cette note.
+
+HELP_DOOR_COODE;Code de la porte:
+HELP_DOOR_COODE1;Sur certaines portes, ily a /nun digicode.
+HELP_DOOR_COODE2;Appuie
+HELP_DOOR_COODE3;à côté de la console/net saisis le code:
+
+HELP_LASER;La porte laser/nactive les alarmes./nPour les désactiver,/nil faut couper/nle câble approprié/nsur le panneau/nde contrôle en bas
+
+HELP_ROBOT;C'est un robot/nd'entraînement qui
+HELP_ROBOT1;imite le guardien./nAppuie
+HELP_ROBOT2;pour
+HELP_ROBOT3;lui
+HELP_ROBOT4;donner un coup de/nbâton
+
+HELP_DOG;Les chiens sont des/nennemis dangeureux.
+HELP_DOG2;La meilleure solution/npour s'en débarasser,/nc'est de leur/ndonner un coup/npar-derrière.
+
+HELP_COMPUTER;Le code de la porte est  /nparfois dissimulé/ndans les fichiers de/nl'ordinateur.
+HELP_COMPUTER2;Contrôle-le!
+
+HELP_SECURITY;Ce guardien est/nvraiment cool!/nLaisse tomber/nl'idée  de  l'assomer/navec ta batte/nde baseball,/nte sauver/net te cacher.
+
+
+TUT2;Utilise les flèches
+TUT2_2;pour déplacer Bob
+TUT3;Appuie
+TUT3_2;pour contrôler s'il y /na de l'argent dans/nla cachette
+TUT6;Appuie
+TUT6_2;pour entrer dans la porte
+TUT7;Appuie
+TUT7_2;pour lire le billet
+TUT8;Appuie
+TUT8_2;pour ouvrir la serrure/navec un passe-partout
+TUT9;pour régler/nle passe-partout,
+TUT9_2;et
+TUT9_3;pour ouvrir
+TUT12;et
+TUT12_2;pour choisir le câble./nSerre la tenaille/npour le couper
+TUT13;Appuie
+TUT13_2;pour accomplir
+TUT14;Tu  dois acquérir  /nun savoir-faire/nspécial/nau magasin/npour ouvrir les/nserrures en or.
+TUT15;Utilise
+TUT15_2;pour déplacer Bob/nsur les escaliers
+TUT_CAMERA;Wait in the shadow/nuntil camera turns/naway
+TUT_CAMERA2;Camera also cannot/nsee you when you/nstand under it
+
+CONTINUE;Continuer
+LEVELS_MAP;Carte des niveaux
+MORE_GAMES;Plus de jeux
+PAUSE;Pause
+
+BACK;Retour
+BACK_TO_GAME;Retour au jeu
+CLEAR_PROGRESS;Vider le progrès
+CLEAR_PROGRESS2;Vider/nle progrès
+CLEAR_PROGRESS_TEXT;Do you really want/nto clear the/nprogress and start/nfrom the beginning?
+
+SKILLS;Skills
+BUY;Acheter
+MONEY;Argent:
+ADVANSED_PICKLOCK;Un passe-partout perfectionné
+ADVANSED_PICKLOCK2;Cela ouvre les serrures en or!
+RUNNER;Coureur
+RUNNER2;Bouge plus vite!
+LUCKY_BEGGAR;Lucky Beggar
+LUCKY_BEGGAR2;Even more loot! 
+STING_LIKE_A_BEE;Pique comme une abeille!
+STING_LIKE_A_BEE2;Cela dérouille même les plus/nforts des guardiens
+NINJA;Ninja
+NINJA2;Déplace-toi sans être aperçu
+
+TOTAL;Totale:
+GAME_SCORE;Compte
+MAIN_MENU;Menu d'accueil
+
+
+START1;Hm? C'est quoi, ce bruit?
+EVIDENCE1;Il paraît que quelqu'un m'a laissé un cadeau.
+FINISH1;Quelqu'un veut que je contrôle cela./nMais pourquoi?
+
+START_LEVEL2;Edition "Crimeburg daily"./nJe dois contrôler le répertoire des fiches.
+EVIDENCE2;Quelqu'un voulait arrêter ce journaliste/nà tout prix! J'aimerais savoir pouquoi...
+FINISH2;Bon moment pour visiter l'avocat.
+
+START_LEVEL3;Оk, c'est la maison de l'avocat./nIl doit exister une piste
+EVIDENCE3;Une photo intéressante, elle peut aider.
+FINISH3;La maison se trouve dans un mauvais/nquartier. Qu'est-ce que tu caches?
+
+START4;Depuis quand les flics font de affaires/navec les filous?
+EVIDENCE4;Le chef de police s'est mouillé dans l'affaire/nde kidnappage! Quelle tournure!
+FINISH_LEVEL4;It's time to go check in at the police station.
+
+START_LEVEL5;Servir et protéger, non?
+EVIDENCE5;Looks like arresting Lester gave/nthe chief's career a real shot in the arm!
+FINISH5;Bon moment pour la grande maison!
+
+START6;J'espère que Lester aime la pâtisserie maison/net sait quelque chose d'intéressant.
+START_LEVEL6;Оk, mais qui t'a promis une vie en rose?
+EVIDENCE6;Ceci veut dire que le chef et Don Carmano/nsont complices! L'affaire devient intéressant
+
+START7;Vas-y, Carmano, pars, je veux juste/njeter un coup d'oeil.
+START_LEVEL7;Qu'est-ce que nous trouverons ici?/nMessieurs, faites vos jeux!
+EVIDENCE7;Je n'arrive pas à y croire! Notre maire aime/nfaire une partie de poker entre amis le soir!
+
+START8;Le maire a un goût excellent! Pourquoi/nil se cache dans une maison si grande?
+EVIDENCE8;On dirait la clé du coffre à la banque!
+
+START_LEVEL9;Le sujet prend de l'ampleur! Je dois faire vite!
+EVIDENCE9;Bien, alors! Les preuves dont nous disposons/nsuffisent pour une dizaine d'emprisonnements!/nIl est temps de s'en aller!
+FINISH9;Il paraît que Santa ait apporté avant terme/nun cadeau de Noël au Procureur régional
+FINISH9_2;Ils ont bien reçu ce qu'ils méritent./nVoilà la fin de délinquance dans la ville!
+FINISH9_3;Mais d'où vient cette sensation que tout cela/nn'est que le début des choses plus grandioses?
+
+COMICS1;Dès son enfance, Bob connaissait son destin.
+COMICS2;Il développait ses acquis pendant des années.
+COMICS3;Il s'entraînait dur.
+COMICS4;Finalement, il a trouvé un vrai objectif...
+COMICS5;...pour sa lutte.

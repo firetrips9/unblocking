@@ -1,0 +1,135 @@
+SKIP;Atlamak
+CREDITS;Yazarlar
+PRODUCTION;Production
+GAME_DESIGN;Oyun dizaynı
+ART;Art
+SOUND_MUSIC;Sesler ve müzik
+BUSTED;Yakalandın!
+WELL_DONE;Pekiyi!
+
+KEY_TODAY;-----------/nDoor key/ntoday:/n%s/n-----------
+README;use arrows/nto select/ndifferent/nfiles
+
+HELP_CAMERA;Gölgede hareketsiz/ndurursan - kamera/nve korumalar seni/ngöremezler./nBu eğitim/n  kameranın  yanından  /ngeçmeye çalış.
+HELP_CAMERA2;Move
+HELP_CAMERA3;or
+HELP_CAMERA4;to
+HELP_CAMERA5;close this note.
+
+HELP_DOOR_COODE;Kapının kodu:
+HELP_DOOR_COODE1;Bazı kapılarda kodlu /nkilitler var. Üstüne
+HELP_DOOR_COODE2;bas
+HELP_DOOR_COODE3;ve kodu gir:
+
+HELP_LASER;Lazerli kapılar/nalarm sistemini/nçalıştırmaktadır./nAlarm sistemini/nkapatmak için/naşağıdaki elektrik/npanosunda doğru/nkabloyu kesmek gerekir.
+
+HELP_ROBOT; Korumayı  taklit  /neden eğitim
+HELP_ROBOT1;robotudur./n Onu sopa
+HELP_ROBOT2;ile
+HELP_ROBOT3;vurmak
+HELP_ROBOT4;için bas.
+
+HELP_DOG;Köpekler - tehlikeli/ndüşmanlardır.
+HELP_DOG2;Köpeklerden/nkurtulmak/nen iyi yöntem -/nonları arkadan/nvurmaktır.
+
+HELP_COMPUTER;Kapının kodu bazen/nbilgisayar dosyalarında/nsaklanmış olabilir.
+HELP_COMPUTER2;Burayı bir kontrol et!
+
+HELP_SECURITY;Bekçi sert bir adam/ngibi görünüyor./nOnun yarasa/nonu bayıltmak/nkalkmayın./nSen daha iyi/nçalıştırmak/nve gizlemek.
+
+
+TUT2;Bob'u yönetmek
+TUT2_2;için okları kullan.
+TUT3;Kasada
+TUT3_2;paranın olup olmadığını/nöğrenmek/niçin tuşuna bas.
+TUT6;Kapılara
+TUT6_2;      girmek     için     bas .      
+TUT7;Notu
+TUT7_2;okumak için tuşuna bas.
+TUT8;Kilidi
+TUT8_2;maymuncukla açmak/niçin tuşuna bas.
+TUT9;maymuncuğu ayarlamak/niçin
+TUT9_2;ve
+TUT9_3;açmak için tuşuna bas.
+TUT12;ve
+TUT12_2;kablo seçimi için./nKabloyu kesmek için/npenseye bas.
+TUT13;Bitirmek
+TUT13_2;için bas tut.
+TUT14; Altın torbaları /naçmak için/nmağazada/nözel tecrübeyi/nedinmen/ngerekir.
+TUT15;Bob'u
+TUT15_2;merdivenlerde/nhareket ettirmek/niçin kullan.
+TUT_CAMERA;Wait in the shadow/nuntil camera turns/naway
+TUT_CAMERA2;Camera also cannot/nsee you when you/nstand under it
+
+CONTINUE;Devam
+LEVELS_MAP;Düzeyler haritası
+MORE_GAMES;Daha çok oyun
+PAUSE;Duraklama
+
+BACK;Geri
+BACK_TO_GAME;Oyuna dön
+CLEAR_PROGRESS;Süreci temizlemek
+CLEAR_PROGRESS2;Süreci/ntemizlemek
+CLEAR_PROGRESS_TEXT;Do you really want/nto clear the/nprogress and start/nfrom the beginning?
+
+SKILLS;Skills
+BUY;Satın almak
+MONEY;Para:
+ADVANSED_PICKLOCK;İyileştirilen maymuncuk
+ADVANSED_PICKLOCK2;Altın kilitleri açar!
+RUNNER;Koşucu
+RUNNER2;Hızlı hareket et!
+LUCKY_BEGGAR;Lucky Beggar
+LUCKY_BEGGAR2;Even more loot! 
+STING_LIKE_A_BEE;Arı gibi bat!
+STING_LIKE_A_BEE2;En güçlü korumaları bile/ndevre dışı bırakır.
+NINJA;Ninja
+NINJA2;Gizlice hareket et
+
+TOTAL;Genel:
+GAME_SCORE;Skor
+MAIN_MENU;Ana menü
+
+
+START1;Hmm? Nedir bu gürültü?
+EVIDENCE1;Belli ki biri bana hediye bırakmış.
+FINISH1;Biriler bunu kontrol etmemi istiyor./nFakat neden?
+
+START_LEVEL2;"Crimeburg daily" Yayınevi./nKartoteği kontrol etmem gerekir.
+EVIDENCE2;Biri bu gazeteciyi durdurmak çok istemiş!/nAcaba neden...
+FINISH2;Avukatı ziyaret etme zamanı
+
+START_LEVEL3;Ok, avukatın evi./nHerhangi bir bahanenin olması gerekir.
+EVIDENCE3;İlgi çeken resim, faydalı olabilir.
+FINISH3;Ev kötü bir semttedir./nBurada neyi saklıyorsun?
+
+START4;Polisler ne zamandan beri üçkâğıtçılarla/nbirlikte çalışıyor?
+EVIDENCE4;Polis amiri kaçırma olayına bulaştı./nAcayip bir gelişme!
+FINISH_LEVEL4;It's time to go check in at the police station.
+
+START_LEVEL5;Hizmet etmek ve korumak, doğru mu?
+EVIDENCE5;Looks like arresting Lester gave/nthe chief's career a real shot in the arm!
+FINISH5;Büyük evi ziyaret etme zamanı!
+
+START6;Umarım Lester ev bisküvileri sever/nve ilgi çeken bir şeyler bilir.
+START_LEVEL6;Ok, kolay olacağını kim söyledi?
+EVIDENCE6;Şef ve Don Karmano ortak demektir!/nOlay çok enteresan boyutlar kazandı.
+
+START7;Hadi Karmanı, git, ben ortama bakıyım.
+START_LEVEL7;Burada neyi buluruz?/nBeyler, mizalarınızı belirleyin!
+EVIDENCE7;İnanamıyorum! Belediye Başkanımız/nakşamları arkadaşlık ortamında/npoker oynamayı severmiş!
+
+START8;Belediye Başkanının zevki çok iyi!/nNeden böyle büyük binada saklanıyor? 
+EVIDENCE8;Banka kasasının anahtarına benziyor!
+
+START_LEVEL9;Süje hız kazanmaktadır!/nAcele etmem gerekiyor!
+EVIDENCE9;Tamam, tamam! On hapis cezası/niçin delilimiz var! Çıkma zamanı!
+FINISH9;Noel Baba Bölge Savcısı için erkenden/nChristmas hediyesini getirmiş galiba.
+FINISH9_2;Hakkettiklerini aldılar./nŞehirde suçluluğa son geldi.
+FINISH9_3;Bütün bunların büyük bir şeyin başlangıcı/nolduğunu neden hissediyorum ki?
+
+COMICS1;Bob çocukluktan beri kaderini biliyordu.
+COMICS2;Gerekli yetenekleri senelerce geliştiriyordu.
+COMICS3;Israrla antrenman yapıyordu.
+COMICS4;Nihayet değerli gayeyi buldu...
+COMICS5;...kendi mücadelesi için
